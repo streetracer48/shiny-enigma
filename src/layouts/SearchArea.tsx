@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 
 const SearchArea = () => {
   return (
-    <section className="search-section pt-5 pb-5">
+    <section className="common-section pt-5 pb-5">
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-md-6">
